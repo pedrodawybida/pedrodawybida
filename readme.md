@@ -1,8 +1,7 @@
 ### Olá! Eu sou Pedro Dawybida 👋
 
 
-- 🔭 Hoje trabalho com Java
-- 🌱 Estou estudando desenvolvimento de API com Spring
+- 🔭 Hoje trabalho com Desenvolvimento Mobile React Native
 - 📫 Contate-me no e-mail: pedrodawybida@icloud.com
 - 😄 Pronouns: ele/dele
 
